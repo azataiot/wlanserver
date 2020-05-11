@@ -5,7 +5,7 @@ network:
             optional: true
     version: 2
     wifis:
-        wlp3s0:
+        wlp3s0b1:
             optional: true
             access-points:
                 "TP-Link_45E6":
