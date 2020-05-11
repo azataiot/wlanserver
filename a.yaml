@@ -1,0 +1,13 @@
+network:
+    ethernets:
+        eth0:
+            dhcp4: true
+            optional: true
+    version: 2
+    wifis:
+        wlp3s0:
+            optional: true
+            access-points:
+                "TP-Link_45E6":
+                    password: "54057395"
+            dhcp4: true
